@@ -11,7 +11,7 @@ public class MatrixTest {
 
     //TODO Before doing Task 1 remove "/*" and "*/" (Shortcut: Ctrl + Shift + /).
 
-    /*
+/*
     @Test
     public void testIndexesOfNullColumns() {
         int[][] matrix = {
@@ -34,7 +34,7 @@ public class MatrixTest {
             assertEquals(expected.get(i), actual.get(i));
         }
     }
-
+/*
     @Test
     public void testIndexOfMaximum() {
         int[][] matrix = {
